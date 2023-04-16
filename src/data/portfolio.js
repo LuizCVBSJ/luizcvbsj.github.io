@@ -1,23 +1,23 @@
 export default [
     {
-        title: 'Terminal Website',  
-        imgUrl: '',
-        stack: ['HTML', 'CSS', 'JavaScript'],
-        link: 'https:fkcodes.com',
-
+        title: 'Chalés na Almada',  
+        imgUrl: '/assets/chale almada.png',
+        stack: ['Pé na areia', 'Aconchego', '3 Chalés'],
+        link: 'https://instagram.com/chalesdoengenho?igshid=ZDdkNTZiNTM=',
+        
     },
     {
-        title: 'Developer Porfolio',  
-        imgUrl: '',
-        stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https:thehackershideout.com',
-
+        title: 'Praia da Almada',  
+        imgUrl: '/assets/almada.jpg',
+        stack: ['Sem ondas', 'Tranquilo', 'Familiar'],
+        link: 'https://www.youtube.com/watch?v=Gz_PnQT3T3o&ab_channel=VIAGENSPELOBRASIL',
+        
     },
     {
-        title: 'AI Nerf Gun',  
-        imgUrl: '',
-        stack: ['Python', 'C++', 'Robotics'],
-        link: 'https:youtu.be/1ZQYQZQZQZQ',
-
+        title: 'BeachLoft',  
+        imgUrl: '/assets/frente.jpg',
+        stack: ['Perequê-Açu', '1.2km da praia', 'Recém construído'],
+        link: 'https://www.airbnb.com/rooms/53459060?source_impression_id=p3_1681578006_lfJH%2B91JgxoZ8HE%2B',
+    
     },
 ]
