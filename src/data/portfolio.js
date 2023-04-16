@@ -1,6 +1,6 @@
 export default [
     {
-        title: 'Chalés na Almada',  
+        title: 'Chalés do Engenho',  
         imgUrl: '/assets/chale almada.png',
         stack: ['Pé na areia', 'Aconchego', '3 Chalés'],
         link: 'https://instagram.com/chalesdoengenho?igshid=ZDdkNTZiNTM=',
