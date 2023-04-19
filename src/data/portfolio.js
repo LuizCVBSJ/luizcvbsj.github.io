@@ -16,7 +16,7 @@ export default [
     {
         title: 'BeachLoft',  
         imgUrl: '/assets/frente.jpg',
-        stack: ['Perequê-Açu', '1.2km da praia', 'Recém construído'],
+        stack: ['Perequê-Açu', '1.2km da praia', 'Novo'],
         link: 'https://www.airbnb.com/rooms/53459060?source_impression_id=p3_1681578006_lfJH%2B91JgxoZ8HE%2B',
     
     },
