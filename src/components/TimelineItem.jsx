@@ -7,6 +7,7 @@ function TimelineItem({ year, title, duration, details }) {
                 <div className="absolute w-3 h-3 bg-stone-200 rounded-full mt-1.5 -left-1.5 border border-white 
                 dark:border-stone-900 dark:bg-stone-700" />
                 <p className="flex flex-wrap gap-4 flew-row items-center justify-start text-xs md:text-sm">
+                </p>
                     <span className="inline-block px-2 py-1 font-semibold text-white dark:text-stone-900  dark:bg-white bg-stone-900 rounded-md">
                         {year}
                     </span>
@@ -16,7 +17,6 @@ function TimelineItem({ year, title, duration, details }) {
                     <div className="my-1 text-sm font-normal leading-1 text-stone-400 dark:text-stone-500">
                         {duration}
                     </div>
-                </p>
                 <p className="my-2 text-base font-normal text-stone-500 dark:text-stone-400">
                     {details}
                 </p>
